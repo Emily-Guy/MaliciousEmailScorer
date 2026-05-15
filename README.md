@@ -25,7 +25,7 @@ Unlike simple pattern matching, this system employs layered heuristics:
     * `appsscript.json` - Manifest file with OAuth scopes.
 * `.gitignore` - Configuration to prevent uploading environment-specific files.
 
-## ⚙️ Setup & Deployment
+## Setup & Deployment
 
 ### Backend
 1. Install dependencies:
